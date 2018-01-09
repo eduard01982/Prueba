@@ -1,6 +1,6 @@
 ﻿Imports System.IO
 Imports System.Xml
-
+'prueba'
 Public Class Llamador
 
     Dim oCaja As New BLL.Caja
